@@ -66,7 +66,7 @@
 
 <br>
 
-<h2 align="center">📖 My main course: [DEV] MERN ADVANCED 📖</h2>
+<h2 align="center">📖 My forte 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
