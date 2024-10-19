@@ -85,7 +85,7 @@
 <h2 align="center">📑Giới thiệu WEBSITE📑</h2>
 <div align="center">"👉 WEB BÁN GIÀY - VinaShoseShop: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
 <h4 align="center"> 📚 Đây là một website được phát triển bằng ngôn ngữ C# và xây dựng theo mô hình MVC (Model-View-Controller). Website được thiết kế với mục tiêu mang đến trải nghiệm người dùng hiện đại, mượt mà và dễ sử dụng, đồng thời giúp việc quản lý nội dung trở nên linh hoạt và hiệu quả hơn. Với kiến trúc MVC, website không chỉ đảm bảo khả năng mở rộng và bảo trì dễ dàng, mà còn tối ưu hóa hiệu suất, đảm bảo tính bảo mật cao, phù hợp cho các dự án có quy mô từ nhỏ đến lớn 📚 </h4>
-<h5 align="center" color=" #333 " > Công nghệ và ngôn ngữ sử dụng trong WEBSITE </h5>
+<h5 align="center" > Công nghệ và Ngôn ngữ sử dụng trong WEBSITE </h5>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
