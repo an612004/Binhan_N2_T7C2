@@ -81,32 +81,32 @@
 <h2 align="center">📑Giới thiệu WEBSITE📑</h2>
 <div align="center">"👉 WEB BÁN GIÀY - VinaShoseShop: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
 <h4 align="center"> Đây là một website được phát triển bằng ngôn ngữ C# và xây dựng theo mô hình MVC (Model-View-Controller). Website được thiết kế với mục tiêu mang đến trải nghiệm người dùng hiện đại, mượt mà và dễ sử dụng, đồng thời giúp việc quản lý nội dung trở nên linh hoạt và hiệu quả hơn. Với kiến trúc MVC, website không chỉ đảm bảo khả năng mở rộng và bảo trì dễ dàng, mà còn tối ưu hóa hiệu suất, đảm bảo tính bảo mật cao, phù hợp cho các dự án có quy mô từ nhỏ đến lớn </h4>
-  <h3 align="Center"> Trang chủ </h3>
+  <h3 align="Center"> -Trang chủ- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 121727.png" align="center" width="1000" height=500" />
   </a>
-    <h3 align="Center"> Trang Sản Phẩm </h3>
+    <h3 align="Center"> -Trang Sản Phẩm- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 121756.png" align="center" width="1000" height=500" />
   </a>
-      <h3 align="Center"> Trang Liên hệ </h3>
+      <h3 align="Center"> -Trang Liên hệ- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 122147.png" align="center" width="1000" height=500" />
   </a>
-     <h3 align="Center"> Trang Thông Tin </h3>
+     <h3 align="Center"> -Trang Thông Tin- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 122208.png" align="center" width="1000" height=500" />
   </a>
-     <h3 align="Center"> Trang Đăng Nhập </h3>
+     <h3 align="Center"> -Trang Đăng Nhập- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 122228.png" align="center" width="1000" height=500" />
   </a>
-       <h3 align="Center"> Trang Đăng Ký </h3>
+       <h3 align="Center"> -Trang Đăng Ký- </h3>
   <br>
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 122247.png" align="center" width="1000" height=500" />
