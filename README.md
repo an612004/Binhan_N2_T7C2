@@ -84,7 +84,7 @@
   <h3 align="Center"> Trang chủ </h3>
   <br>
   <a href="#" target="_blank">
-  <img srrc="svg/Screenshot 2024-10-19 121727.png" align="center" width="900" height=200" />
+  <img src="svg/Screenshot 2024-10-19 121727.png" align="center" width="900" height=200" />
   </a>
 
 <br>
