@@ -87,6 +87,18 @@
 <h2 align="center">📑Giới thiệu WEBSITE📑</h2>
 <div align="center">"👉 WEB BÁN GIÀY - VinaShoseShop: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
 <h4 align="center"> Đây là một website được phát triển bằng ngôn ngữ C# và xây dựng theo mô hình MVC (Model-View-Controller). Website được thiết kế với mục tiêu mang đến trải nghiệm người dùng hiện đại, mượt mà và dễ sử dụng, đồng thời giúp việc quản lý nội dung trở nên linh hoạt và hiệu quả hơn. Với kiến trúc MVC, website không chỉ đảm bảo khả năng mở rộng và bảo trì dễ dàng, mà còn tối ưu hóa hiệu suất, đảm bảo tính bảo mật cao, phù hợp cho các dự án có quy mô từ nhỏ đến lớn </h4>
+<h5 align="center"> Công nghệ sử dụng </h5>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
   <h3 align="Center"> -Trang chủ- </h3>
   <br>
   <a href="#" target="_blank">
