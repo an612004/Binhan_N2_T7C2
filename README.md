@@ -82,6 +82,10 @@
 <div align="center">" Website đang thực hiện: 👉 WEB BÁN GIÀY: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
 <h4 align="center"> Đây là 1 website code bằng ngôn ngữ c# và theo Mô Hình MVC </h4>
   <h3 align="Center"> Trang chủ </h3>
+  <br>
+  <a href="#" target="_blank">
+  <img srrc="svg/Screenshot 2024-10-19 121727.png" align="center" width="900" height=200" />
+  </a>
 
 <br>
 <a href="#" target="_blank">
