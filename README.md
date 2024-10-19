@@ -70,7 +70,7 @@
 <br>
 <p>
   <a href="https://github.com/an612004?tab=repositories" target="_blank">
-    <strong>☕ [Dev] MERN ADVANCED •  Các ngôn ngữ tôi có thể thành tạo ✍ | C#, Java, NodeJS, HTML, CSS, javascript, SQL | AnHo Dev</strong>
+    <strong>☕ [Dev] MERN ADVANCED • Các dự án cá nhân tôi - Các ngôn ngữ tôi có thể thành tạo ✍ | C#, Java, NodeJS, HTML, CSS, javascript, SQL | AnHo Dev</strong>
   </a>
 </p>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/ho.anbi.7315/" target="_blank">https://www.facebook.com/ho.anbi.7315/</a></strong>
