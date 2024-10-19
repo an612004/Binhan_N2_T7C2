@@ -78,9 +78,9 @@
   <strong>📧 Hoặc Email: <a href="hobinhan321@gmail.com" target="_top">hobinhan321@gmail.com</a></strong>
 </p>
 <br>
-<h2 align="center">📑Giới thiệu📑</h2>
-<div align="center">" Website đang thực hiện: 👉 WEB BÁN GIÀY: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
-<h4 align="center"> Đây là 1 website code bằng ngôn ngữ c# và theo Mô Hình MVC </h4>
+<h2 align="center">📑Giới thiệu WEBSITE📑</h2>
+<div align="center">"👉 WEB BÁN GIÀY - VinaShoseShop: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
+<h4 align="center"> Đây là một website được phát triển bằng ngôn ngữ C# và xây dựng theo mô hình MVC (Model-View-Controller). Website được thiết kế với mục tiêu mang đến trải nghiệm người dùng hiện đại, mượt mà và dễ sử dụng, đồng thời giúp việc quản lý nội dung trở nên linh hoạt và hiệu quả hơn. Với kiến trúc MVC, website không chỉ đảm bảo khả năng mở rộng và bảo trì dễ dàng, mà còn tối ưu hóa hiệu suất, đảm bảo tính bảo mật cao, phù hợp cho các dự án có quy mô từ nhỏ đến lớn </h4>
   <h3 align="Center"> Trang chủ </h3>
   <br>
   <a href="#" target="_blank">
