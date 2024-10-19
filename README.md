@@ -80,7 +80,9 @@
 <br>
 <h2 align="center">📑Giới thiệu📑</h2>
 <div class="quotes-vi">"Website đang thực hiện: WEB BÁN GIÀY: http://vinashoseshop-001-site1.gtempurl.com/   "</div>
-<h5 align="center"> Đây là 1 website code bằng ngôn ngữ c# và theo Mô Hình MVC </h5>
+<h4 align="center"> Đây là 1 website code bằng ngôn ngữ c# và theo Mô Hình MVC </h4>
+  <h3 align="Center"> Trang chủ </h3>![image](https://github.com/user-attachments/assets/e329f2af-2489-41ca-9289-ae899a9959df)
+
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
