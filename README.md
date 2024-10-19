@@ -66,10 +66,10 @@
 
 <br>
 
-<h2 align="center">📖 My forte 📖</h2>
+<h2 align="center">📖 My forte - My project 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
+  <a href="https://github.com/an612004?tab=repositories" target="_blank">
     <strong>☕ [Dev] MERN ADVANCED •  Các ngôn ngữ tôi có thể thành tạo ✍ | C#, Java, NodeJS, HTML, CSS, javascript, SQL | AnHo Dev</strong>
   </a>
 </p>
