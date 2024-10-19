@@ -79,6 +79,7 @@
 </p>
 <br>
 <h2 align="center">📑Giới thiệu📑</h2>
+<div class="quotes-vi">"Website đang thực hiện: WEB BÁN GIÀY: http://vinashoseshop-001-site1.gtempurl.com/   "</div>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
