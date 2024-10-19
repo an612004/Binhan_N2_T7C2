@@ -66,17 +66,23 @@
 
 <br>
 
-<h2 align="center">📖 My forte - My project 📖</h2>
+<h2 align="center">📖 Information About Me - My Forte - My Projects 📖</h2>
 <br>
 <p>
+  <strong>👤 Tên: Hồ Bình An</strong><br>
+  <strong>🎂 Năm sinh: 2004</strong><br>
+  <strong>💼 Chuyên môn: Web Development</strong>
+</p>
+<p>
   <a href="https://github.com/an612004?tab=repositories" target="_blank">
-    <strong>☕ [Dev] MERN ADVANCED • Các dự án cá nhân tôi - Các ngôn ngữ tôi có thể thành tạo ✍ | C#, Java, NodeJS, HTML, CSS, javascript, SQL | AnHo Dev</strong>
+    <strong>☕ [Dev] MERN ADVANCED • Các dự án cá nhân tôi - Các ngôn ngữ tôi có thể thành thạo ✍ | C#, Java, NodeJS, HTML, CSS, JavaScript, SQL | AnHo Dev</strong>
   </a>
 </p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/ho.anbi.7315/" target="_blank">https://www.facebook.com/ho.anbi.7315/</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="hobinhan321@gmail.com" target="_top">hobinhan321@gmail.com</a></strong>
+<p>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/ho.anbi.7315/" target="_blank">https://www.facebook.com/ho.anbi.7315/</a></strong><br>
+  <strong>📧 Hoặc Email: <a href="mailto:hobinhan321@gmail.com" target="_top">hobinhan321@gmail.com</a></strong>
 </p>
+
 <br>
 <h2 align="center">📑Giới thiệu WEBSITE📑</h2>
 <div align="center">"👉 WEB BÁN GIÀY - VinaShoseShop: http://vinashoseshop-001-site1.gtempurl.com/ 👈"</div>
