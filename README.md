@@ -101,6 +101,47 @@
   <strong>👤 Tên: Hồ Bình An</strong><br>
   <strong>🎂 Năm sinh: 2004</strong><br>
   <strong>💼 Chuyên môn: Web Development</strong>
+  <h2 align="center">💻 Các IDE Thành Thạo 💻</h2>
+<p align="center">
+  🔧 Với kinh nghiệm phát triển ứng dụng trên nhiều nền tảng, tôi đã thành thạo các IDE nổi bật sau đây: 🔧
+</p>
+
+<div align="center" style="margin: 30px 0;">
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="50" />
+    <p style="margin-top: 5px; color: #5C2D91; font-size: 18px;">Visual Studio</p>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="50" />
+    <p style="margin-top: 5px; color: #007ACC; font-size: 18px;">Visual Studio Code</p>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" alt="Android Studio logo" title="Android Studio" height="50" />
+    <p style="margin-top: 5px; color: #3DDC84; font-size: 18px;">Android Studio</p>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server logo" title="SQL Server" height="50" />
+    <p style="margin-top: 5px; color: #CC2927; font-size: 18px;">SQL Server</p>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <!-- NetBeans -->
+  <a href="https://netbeans.apache.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans logo" title="NetBeans" height="50" />
+    <p style="margin-top: 5px; color: #1B6AC6; font-size: 18px;">NetBeans</p>
+  </a>
+</div>
+
 </p>
 <p>
   <a href="https://github.com/an612004?tab=repositories" target="_blank">
