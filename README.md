@@ -103,32 +103,6 @@
   <a href="#" target="_blank">
   <img src="svg/Screenshot 2024-10-19 121727.png" align="center" width="1000" height=500" />
   </a>
-    <h3 align="Center"> -Trang Sản Phẩm- </h3>
-  <br>
-  <a href="#" target="_blank">
-  <img src="svg/Screenshot 2024-10-19 121756.png" align="center" width="1000" height=500" />
-  </a>
-      <h3 align="Center"> -Trang Liên hệ- </h3>
-  <br>
-  <a href="#" target="_blank">
-  <img src="svg/Screenshot 2024-10-19 122147.png" align="center" width="1000" height=500" />
-  </a>
-     <h3 align="Center"> -Trang Thông Tin- </h3>
-  <br>
-  <a href="#" target="_blank">
-  <img src="svg/Screenshot 2024-10-19 122208.png" align="center" width="1000" height=500" />
-  </a>
-     <h3 align="Center"> -Trang Đăng Nhập- </h3>
-  <br>
-  <a href="#" target="_blank">
-  <img src="svg/Screenshot 2024-10-19 122228.png" align="center" width="1000" height=500" />
-  </a>
-       <h3 align="Center"> -Trang Đăng Ký- </h3>
-  <br>
-  <a href="#" target="_blank">
-  <img src="svg/Screenshot 2024-10-19 122247.png" align="center" width="1000" height=500" />
-  </a>
-
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" align="center" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
