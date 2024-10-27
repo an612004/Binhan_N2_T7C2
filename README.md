@@ -97,10 +97,77 @@
 
 <h2 align="center">📖 Information About Me - My Forte - My Projects 📖</h2>
 <br>
-<p>
-  <strong>👤 Tên: Hồ Bình An</strong><br>
-  <strong>🎂 Năm sinh: 2004</strong><br>
-  <strong>💼 Chuyên môn: Web Development</strong>
+<div style="text-align: center; padding: 20px; font-size: 18px;">
+  <p>
+    <strong>👤 Tên:</strong> Hồ Bình An<br>
+    <strong>🎂 Năm sinh:</strong> 2004<br>
+    <strong>💼 Chuyên môn:</strong> Web Development
+  </p>
+</div>
+
+<!-- Skills Section -->
+<div style="text-align: center; padding: 20px;">
+  <h3>🛠️ Kỹ Năng 🛠️</h3>
+  <ul style="list-style-type: none; padding: 0; display: inline-block; text-align: left; font-size: 16px;">
+    <li style="padding: 5px;">
+      <span>💬 Giao tiếp tốt</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>📚 Ham học hỏi và không ngừng cải thiện</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🧠 Khả năng giải quyết vấn đề sáng tạo</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🕒 Quản lý thời gian hiệu quả</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🤝 Làm việc nhóm tốt</span>
+    </li>
+  </ul>
+</div>
+
+<!-- Interests Section -->
+<div style="text-align: center; padding: 20px;">
+  <h3>🎨 Sở Thích 🎨</h3>
+  <ul style="list-style-type: none; padding: 0; display: inline-block; text-align: left; font-size: 16px;">
+    <li style="padding: 5px;">
+      <span>🎮 Chơi game</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>📖 Đọc sách về công nghệ</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🎧 Nghe nhạc</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🌍 Du lịch và khám phá địa điểm mới</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>💻 Thử nghiệm các công nghệ mới</span>
+    </li>
+  </ul>
+</div>
+
+<!-- Projects Section -->
+<div style="text-align: center; padding: 20px;">
+  <h3>🚀 Dự Án 🚀</h3>
+  <p style="font-size: 16px;">
+    Tôi đã tham gia phát triển và triển khai nhiều dự án liên quan đến Web Development. Một số dự án nổi bật bao gồm:
+  </p>
+  <ul style="list-style-type: none; padding: 0; display: inline-block; text-align: left; font-size: 16px;">
+    <li style="padding: 5px;">
+      <span>🌐 VinaShoeShop - Trang web bán giày</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>📱 AnBishop - Website bán hàng thời trang</span>
+    </li>
+    <li style="padding: 5px;">
+      <span>🖥️ HoAn Mobile - Website giới thiệu dịch vụ</span>
+    </li>
+  </ul>
+</div>
+
  <h2 align="center">💻 Các IDE Thành Thạo 💻</h2>
 <p align="center">
   🔧 Với kinh nghiệm phát triển ứng dụng trên nhiều nền tảng, tôi đã thành thạo các IDE nổi bật sau đây: 🔧
