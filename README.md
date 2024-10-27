@@ -114,15 +114,13 @@
       <img src="svg/Screenshot 2024-10-19 121727.png" align="center" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
     </a>
   </div>
-  
-  <div align="center" style="margin-top: 30px;">
-    <a href="#" target="_blank">
-      <img src="svg/trungquandev-quotes.svg" align="center" style="width: 846px; height: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-    </a>
-  </div>
-
   <h3 align="center" style="color: #333; font-weight: bold; font-size: 22px; margin-top: 40px;">🌟 Dự định phát triển trong tương lai 🌟</h3>
   <p align="center" style="font-size: 18px; color: #555; line-height: 1.6; margin-top: 15px;">
     Trong thời gian tới, VinaShoeShop sẽ tiếp tục phát triển các tính năng mới, bao gồm việc tối ưu hoá tốc độ tải trang, tích hợp thanh toán online an toàn và thuận tiện hơn, cùng với việc mở rộng kho sản phẩm. Chúng tôi cũng sẽ nỗ lực cập nhật giao diện để đáp ứng nhu cầu trải nghiệm của người dùng, mang lại cảm giác thoải mái và thân thiện khi mua sắm trên website. Hãy đón chờ những tính năng mới và trải nghiệm vượt trội từ VinaShoeShop!
   </p>
 </section>
+  <div align="center" style="margin-top: 30px;">
+    <a href="#" target="_blank">
+      <img src="svg/trungquandev-quotes.svg" align="center" style="width: 846px; height: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+    </a>
+  </div>
